@@ -9,7 +9,7 @@
 <li>Meta Viewport e @media</li>
 <li>Conheça o Emmet</li>
 <li>Variáveis CSS</li>
-<li>Utilizando google fonts</li>
+<li>Utilizando Google Fonts</li>
 <li>Unidades em, rem, vw e vh</li>
 <li>Lidando com imagens</li>
 </ul>
