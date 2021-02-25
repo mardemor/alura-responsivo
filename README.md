@@ -6,9 +6,10 @@
 <li>Aprenda a lidar com adaptação de diferentes layouts</li>
 <li>Aprimore seu conhecimento de responsividade</li>
 <li>Abordagens Mobile First e Desktop First</li>
-<li>Viewport e @media</li>
+<li>Meta Viewport e @media</li>
 <li>Conheça o Emmet</li>
 <li>Variáveis CSS</li>
+<li>Utilizando google fonts</li>
 <li>Unidades em, rem, vw e vh</li>
 <li>Lidando com imagens</li>
 </ul>
